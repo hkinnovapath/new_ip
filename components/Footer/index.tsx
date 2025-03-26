@@ -30,9 +30,9 @@ const Footer = () => {
               >
                 <a href="/" className="relative">
                   <Image
-                    width={110}
+                    width={140}
                     height={80}
-                    src="/images/logo/logo-light.svg"
+                    src="/images/logo/ip_logo-removebg-preview.png"
                     alt="Logo"
                     className="dark:hidden"
                   />
@@ -56,7 +56,7 @@ const Footer = () => {
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  innova-path@gmail.com
                 </a>
               </motion.div>
 
@@ -301,7 +301,7 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} Solid. All rights reserved
+                &copy; {new Date().getFullYear()} Innova-path. All rights reserved
               </p>
             </motion.div>
 

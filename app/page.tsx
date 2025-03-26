@@ -29,13 +29,13 @@ export default function Home() {
       <About />
       <FeaturesTab />
       <FunFact />
-      <Integration />
+      <Integration />  {/* this can be removed later  */}        
       <CTA />
-      <FAQ />
-      <Testimonial />
-      <Pricing />
-      <Contact />
-      <Blog />
+      {/* <FAQ /> */}
+      {/* <Testimonial /> */}
+      {/* <Pricing /> */}
+      {/* <Contact /> */}
+      {/* <Blog /> */}
     </main>
   );
 }
